@@ -33,7 +33,7 @@
 
 - Built end-to-end credit risk model on 300k+ real loan applicants
 - Merged bureau & previous application data for enriched feature set
-- Achieved **AUC-ROC: 0.7671** — production worthy for BFSI
+- Achieved **AUC-ROC: 0.7671** 
 - SHAP explainability for regulatory compliance
 - Live Streamlit dashboard with real-time risk scoring
 
@@ -60,7 +60,7 @@
 ### 👗 [Fashion Trend Forecasting](https://github.com/Hetvi511/Fashion-Trend-Forecasting-AI)
 > Python · LSTM · Mask R-CNN · Streamlit
 
-- End-to-end ML pipeline with LSTM for trend forecasting
+- End-to-end ML pipeline with LSTM for trend forecasting to optimize inventory
 - Streamlit visualization layer for non-technical stakeholders
 
 ---
