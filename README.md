@@ -65,14 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hetvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hetvi511&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi511&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hetvi%20Joshi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hetvi-joshi05)
