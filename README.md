@@ -1,6 +1,6 @@
 # Hi, I'm Hetvi Joshi 👋
 
-🎓 B.Tech CSE (Data Science) | Honors in Computational Finance | DJSCE, University of Mumbai (GPA: 8.74)
+🎓 B.Tech CSE (Data Science) | Honors in Computational Finance | DJSCE, University of Mumbai (GPA: 8.80)
 
 💼 Actively seeking **Data Scientist | ML Engineer | Analytics** roles in **Fintech & BFSI**
 
